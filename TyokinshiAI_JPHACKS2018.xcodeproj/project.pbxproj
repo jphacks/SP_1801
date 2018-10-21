@@ -8,12 +8,32 @@
 
 /* Begin PBXBuildFile section */
 		5005C5D9217AB5B4005DFBC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C5D8217AB5B4005DFBC9 /* AppDelegate.swift */; };
-		5005C5DB217AB5B4005DFBC9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C5DA217AB5B4005DFBC9 /* ViewController.swift */; };
-		5005C5DE217AB5B4005DFBC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C5DC217AB5B4005DFBC9 /* Main.storyboard */; };
-		5005C5E0217AB5BC005DFBC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5005C5DF217AB5BC005DFBC9 /* Assets.xcassets */; };
+		5005C5DB217AB5B4005DFBC9 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C5DA217AB5B4005DFBC9 /* ViewController1.swift */; };
 		5005C5E3217AB5BC005DFBC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C5E1217AB5BC005DFBC9 /* LaunchScreen.storyboard */; };
 		5005C5EE217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C5ED217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018Tests.swift */; };
 		5005C5F9217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C5F8217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018UITests.swift */; };
+		5005C60B217AD477005DFBC9 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C60A217AD477005DFBC9 /* ViewController2.swift */; };
+		5005C60C217AD477005DFBC9 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C60A217AD477005DFBC9 /* ViewController2.swift */; };
+		5005C60D217AD477005DFBC9 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C60A217AD477005DFBC9 /* ViewController2.swift */; };
+		5005C613217ADEED005DFBC9 /* tyokinAI.png in Resources */ = {isa = PBXBuildFile; fileRef = 5005C612217ADEED005DFBC9 /* tyokinAI.png */; };
+		5005C614217ADEED005DFBC9 /* tyokinAI.png in Resources */ = {isa = PBXBuildFile; fileRef = 5005C612217ADEED005DFBC9 /* tyokinAI.png */; };
+		5005C615217ADEED005DFBC9 /* tyokinAI.png in Resources */ = {isa = PBXBuildFile; fileRef = 5005C612217ADEED005DFBC9 /* tyokinAI.png */; };
+		5005C617217AF280005DFBC9 /* ViewController0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C616217AF280005DFBC9 /* ViewController0.swift */; };
+		5005C619217B0167005DFBC9 /* cofee0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5005C618217B0167005DFBC9 /* cofee0.jpg */; };
+		5005C61A217B0167005DFBC9 /* cofee0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5005C618217B0167005DFBC9 /* cofee0.jpg */; };
+		5005C61B217B0167005DFBC9 /* cofee0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5005C618217B0167005DFBC9 /* cofee0.jpg */; };
+		5005C61D217B0FD1005DFBC9 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C61C217B0FD1005DFBC9 /* ViewController3.swift */; };
+		5005C61E217B0FD1005DFBC9 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C61C217B0FD1005DFBC9 /* ViewController3.swift */; };
+		5005C61F217B0FD1005DFBC9 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C61C217B0FD1005DFBC9 /* ViewController3.swift */; };
+		5005C621217B0FE3005DFBC9 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C620217B0FE3005DFBC9 /* ViewController4.swift */; };
+		5005C622217B0FE3005DFBC9 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C620217B0FE3005DFBC9 /* ViewController4.swift */; };
+		5005C623217B0FE3005DFBC9 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C620217B0FE3005DFBC9 /* ViewController4.swift */; };
+		5005C625217B0FF0005DFBC9 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C624217B0FF0005DFBC9 /* ViewController5.swift */; };
+		5005C626217B0FF0005DFBC9 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C624217B0FF0005DFBC9 /* ViewController5.swift */; };
+		5005C627217B0FF0005DFBC9 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5005C624217B0FF0005DFBC9 /* ViewController5.swift */; };
+		5005C62A217B2865005DFBC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C628217B2865005DFBC9 /* Main.storyboard */; };
+		5005C62B217B2865005DFBC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C628217B2865005DFBC9 /* Main.storyboard */; };
+		5005C62C217B2865005DFBC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C628217B2865005DFBC9 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,9 +56,7 @@
 /* Begin PBXFileReference section */
 		5005C5D5217AB5B3005DFBC9 /* TyokinshiAI_JPHACKS2018.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TyokinshiAI_JPHACKS2018.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5005C5D8217AB5B4005DFBC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5005C5DA217AB5B4005DFBC9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5005C5DD217AB5B4005DFBC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5005C5DF217AB5BC005DFBC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5005C5DA217AB5B4005DFBC9 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 		5005C5E2217AB5BC005DFBC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5005C5E4217AB5BC005DFBC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5005C5E9217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TyokinshiAI_JPHACKS2018Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,6 +65,14 @@
 		5005C5F4217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TyokinshiAI_JPHACKS2018UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5005C5F8217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TyokinshiAI_JPHACKS2018UITests.swift; sourceTree = "<group>"; };
 		5005C5FA217AB5BC005DFBC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5005C60A217AD477005DFBC9 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		5005C612217ADEED005DFBC9 /* tyokinAI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tyokinAI.png; sourceTree = "<group>"; };
+		5005C616217AF280005DFBC9 /* ViewController0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController0.swift; sourceTree = "<group>"; };
+		5005C618217B0167005DFBC9 /* cofee0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cofee0.jpg; sourceTree = "<group>"; };
+		5005C61C217B0FD1005DFBC9 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		5005C620217B0FE3005DFBC9 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		5005C624217B0FF0005DFBC9 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		5005C629217B2865005DFBC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +124,17 @@
 			isa = PBXGroup;
 			children = (
 				5005C5D8217AB5B4005DFBC9 /* AppDelegate.swift */,
-				5005C5DA217AB5B4005DFBC9 /* ViewController.swift */,
-				5005C5DC217AB5B4005DFBC9 /* Main.storyboard */,
-				5005C5DF217AB5BC005DFBC9 /* Assets.xcassets */,
+				5005C616217AF280005DFBC9 /* ViewController0.swift */,
+				5005C5DA217AB5B4005DFBC9 /* ViewController1.swift */,
+				5005C60A217AD477005DFBC9 /* ViewController2.swift */,
+				5005C61C217B0FD1005DFBC9 /* ViewController3.swift */,
+				5005C620217B0FE3005DFBC9 /* ViewController4.swift */,
+				5005C624217B0FF0005DFBC9 /* ViewController5.swift */,
 				5005C5E1217AB5BC005DFBC9 /* LaunchScreen.storyboard */,
+				5005C628217B2865005DFBC9 /* Main.storyboard */,
+				5005C612217ADEED005DFBC9 /* tyokinAI.png */,
 				5005C5E4217AB5BC005DFBC9 /* Info.plist */,
+				5005C618217B0167005DFBC9 /* cofee0.jpg */,
 			);
 			path = TyokinshiAI_JPHACKS2018;
 			sourceTree = "<group>";
@@ -229,9 +261,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5005C613217ADEED005DFBC9 /* tyokinAI.png in Resources */,
 				5005C5E3217AB5BC005DFBC9 /* LaunchScreen.storyboard in Resources */,
-				5005C5E0217AB5BC005DFBC9 /* Assets.xcassets in Resources */,
-				5005C5DE217AB5B4005DFBC9 /* Main.storyboard in Resources */,
+				5005C619217B0167005DFBC9 /* cofee0.jpg in Resources */,
+				5005C62A217B2865005DFBC9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +272,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5005C62B217B2865005DFBC9 /* Main.storyboard in Resources */,
+				5005C614217ADEED005DFBC9 /* tyokinAI.png in Resources */,
+				5005C61A217B0167005DFBC9 /* cofee0.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +282,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5005C62C217B2865005DFBC9 /* Main.storyboard in Resources */,
+				5005C615217ADEED005DFBC9 /* tyokinAI.png in Resources */,
+				5005C61B217B0167005DFBC9 /* cofee0.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +295,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5005C5DB217AB5B4005DFBC9 /* ViewController.swift in Sources */,
+				5005C61D217B0FD1005DFBC9 /* ViewController3.swift in Sources */,
+				5005C621217B0FE3005DFBC9 /* ViewController4.swift in Sources */,
+				5005C5DB217AB5B4005DFBC9 /* ViewController1.swift in Sources */,
 				5005C5D9217AB5B4005DFBC9 /* AppDelegate.swift in Sources */,
+				5005C60B217AD477005DFBC9 /* ViewController2.swift in Sources */,
+				5005C617217AF280005DFBC9 /* ViewController0.swift in Sources */,
+				5005C625217B0FF0005DFBC9 /* ViewController5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +310,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5005C5EE217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018Tests.swift in Sources */,
+				5005C60C217AD477005DFBC9 /* ViewController2.swift in Sources */,
+				5005C61E217B0FD1005DFBC9 /* ViewController3.swift in Sources */,
+				5005C622217B0FE3005DFBC9 /* ViewController4.swift in Sources */,
+				5005C626217B0FF0005DFBC9 /* ViewController5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +322,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5005C5F9217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018UITests.swift in Sources */,
+				5005C60D217AD477005DFBC9 /* ViewController2.swift in Sources */,
+				5005C61F217B0FD1005DFBC9 /* ViewController3.swift in Sources */,
+				5005C623217B0FE3005DFBC9 /* ViewController4.swift in Sources */,
+				5005C627217B0FF0005DFBC9 /* ViewController5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,20 +345,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		5005C5DC217AB5B4005DFBC9 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5005C5DD217AB5B4005DFBC9 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		5005C5E1217AB5BC005DFBC9 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				5005C5E2217AB5BC005DFBC9 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		5005C628217B2865005DFBC9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5005C629217B2865005DFBC9 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
