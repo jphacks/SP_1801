@@ -53,4 +53,5 @@
 
 ### 独自開発技術（Hack Dayで開発したもの）
 #### 2日間に開発した独自の機能・技術
-* 特になし
+* [Swift Project](https://github.com/jphacks/SP_1801/tree/Swift)
+* [Python Project](https://github.com/jphacks/SP_1801/tree/tamai_python)
