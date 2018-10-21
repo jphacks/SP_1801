@@ -34,6 +34,9 @@
 		5005C62A217B2865005DFBC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C628217B2865005DFBC9 /* Main.storyboard */; };
 		5005C62B217B2865005DFBC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C628217B2865005DFBC9 /* Main.storyboard */; };
 		5005C62C217B2865005DFBC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5005C628217B2865005DFBC9 /* Main.storyboard */; };
+		5005C62E217C21E1005DFBC9 /* SeleniumAmazon.py in Resources */ = {isa = PBXBuildFile; fileRef = 5005C62D217C21E1005DFBC9 /* SeleniumAmazon.py */; };
+		5005C62F217C21E1005DFBC9 /* SeleniumAmazon.py in Resources */ = {isa = PBXBuildFile; fileRef = 5005C62D217C21E1005DFBC9 /* SeleniumAmazon.py */; };
+		5005C630217C21E1005DFBC9 /* SeleniumAmazon.py in Resources */ = {isa = PBXBuildFile; fileRef = 5005C62D217C21E1005DFBC9 /* SeleniumAmazon.py */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +76,7 @@
 		5005C620217B0FE3005DFBC9 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
 		5005C624217B0FF0005DFBC9 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
 		5005C629217B2865005DFBC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5005C62D217C21E1005DFBC9 /* SeleniumAmazon.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = SeleniumAmazon.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,7 @@
 		5005C5CC217AB5B3005DFBC9 = {
 			isa = PBXGroup;
 			children = (
+				5005C62D217C21E1005DFBC9 /* SeleniumAmazon.py */,
 				5005C5D7217AB5B3005DFBC9 /* TyokinshiAI_JPHACKS2018 */,
 				5005C5EC217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018Tests */,
 				5005C5F7217AB5BC005DFBC9 /* TyokinshiAI_JPHACKS2018UITests */,
@@ -262,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5005C613217ADEED005DFBC9 /* tyokinAI.png in Resources */,
+				5005C62E217C21E1005DFBC9 /* SeleniumAmazon.py in Resources */,
 				5005C5E3217AB5BC005DFBC9 /* LaunchScreen.storyboard in Resources */,
 				5005C619217B0167005DFBC9 /* cofee0.jpg in Resources */,
 				5005C62A217B2865005DFBC9 /* Main.storyboard in Resources */,
@@ -272,6 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5005C62F217C21E1005DFBC9 /* SeleniumAmazon.py in Resources */,
 				5005C62B217B2865005DFBC9 /* Main.storyboard in Resources */,
 				5005C614217ADEED005DFBC9 /* tyokinAI.png in Resources */,
 				5005C61A217B0167005DFBC9 /* cofee0.jpg in Resources */,
@@ -282,6 +289,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5005C630217C21E1005DFBC9 /* SeleniumAmazon.py in Resources */,
 				5005C62C217B2865005DFBC9 /* Main.storyboard in Resources */,
 				5005C615217ADEED005DFBC9 /* tyokinAI.png in Resources */,
 				5005C61B217B0167005DFBC9 /* cofee0.jpg in Resources */,
