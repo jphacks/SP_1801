@@ -58,6 +58,6 @@
 ### 独自開発技術（Hack Dayで開発したもの）
 #### 2日間に開発した独自の機能・技術
 * [Swift Project](https://github.com/jphacks/SP_1801/tree/Swift)
-クライアントサイド
+：クライアントサイド
 * [Python Project](https://github.com/jphacks/SP_1801/tree/tamai_python)
-** サーバサイド
+：サーバサイド
