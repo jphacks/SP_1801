@@ -16,17 +16,17 @@ from selenium import webdriver
 ID = "g2118023@fun.ac.jp"
 PASSWORD = "amazon2118"
 #URL
-CHEAP_COFFEE_URL = "https://www.amazon.co.jp/%E5%8A%A0%E8%97%A4%E7%8F%88%E7%90%B2%E5%BA%97-%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89-%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC-500g-%EF%BC%9C%E6%8C%BD%E3%81%8D%E5%85%B7%E5%90%88%EF%BC%9A%E8%B1%86%E3%81%AE%E3%81%BE%E3%81%BE%EF%BC%9E/dp/B00XMUZGJ0/ref=sr_1_12?rps=1&ie=UTF8&qid=1540052717&sr=8-12&keywords=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%80%80500g&refinements=p_76%3A2227292051"
-EXPENSIVE_COFFEE_URL = "https://www.amazon.co.jp/Juan-Valdez-%E3%83%95%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%90%E3%83%AB%E3%83%87%E3%82%B9-%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%80%90%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A7%E3%80%91%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/dp/B00WR6B02W/ref=sr_1_60?rps=1&ie=UTF8&qid=1540052811&sr=8-60&keywords=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%80%80500g&refinements=p_76%3A2227292051"
+CHEAP_COFFEE_URL = "https://www.amazon.co.jp/gp/product/B00XMUZGJ0/ref=s9u_simh_gw_i1?ie=UTF8&pd_rd_i=B00XMUZGJ0&pd_rd_r=932b0d93-d4ed-11e8-a829-192d104beea6&pd_rd_w=YH9SK&pd_rd_wg=5OBC5&pf_rd_m=AN1VRQENFRJN5&pf_rd_s=&pf_rd_r=MCMB102TNC4XZTRD0ZJ3&pf_rd_t=36701&pf_rd_p=7d4cee6a-0149-45bb-a2b2-9b4531af080e&pf_rd_i=desktop"
+EXPENSIVE_COFFEE_URL = "https://www.amazon.co.jp/gp/product/B00WR6B02W?pf_rd_p=8c88536d-9977-47bb-9a78-f021ab673f14&pf_rd_r=CYHYJDS48K9ZQATQB78W"
 #仮貯金額
 SAVINGS = 1000
 
 #ブラウザ起動、サイトにアクセス
 #金額が少なければ安いコーヒー豆、多ければ高いコーヒー豆のページにアクセス
-if SAVINGS >= 1000 and SAVINGS < 4500 :
+if SAVINGS >= 1000 and SAVINGS < 3000 :
   driver = webdriver.Chrome()
   driver.get(CHEAP_COFFEE_URL)
-elif SAVINGS >= 4500 :
+elif SAVINGS >= 3000 :
   driver = webdriver.Chrome()
   driver.get(EXPENSIVE_COFFEE_URL)
 else :
