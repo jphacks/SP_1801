@@ -1,6 +1,6 @@
  チョキンシ.アイ
 
-[![Product Name](yokinAI.png)](https://youtu.be/81z42RVCK9k)
+[![Product Name](tyokinAI.png)](https://youtu.be/81z42RVCK9k)
 
 ## 製品概要
 ### 貯金箱☓Tech
